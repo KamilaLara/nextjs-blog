@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "lib/posts.js", "pages/lib/posts.js", "pages/lib/posts.js", "posts.js", "layout.js", "public/components/layout.js"  ],
+, "public/components/layout.jsx", "public/components/date.jsx", "pages/posts/[id].jsx", "pages/_app.tsx", "pages/index.jsx", "pages/api/hello.js", "lib/posts.js", "pages/lib/posts.js", "pages/lib/posts.js", "posts.js", "layout.js", "public/components/layout.js", "pages/_app.js"  ],
   "exclude": [
     "node_modules"
   ]
